@@ -1,0 +1,23 @@
+form {
+  border-collapse: collapse;
+  margin-left: 675px;
+  margin-top: 200px;
+
+}
+input{
+  border: 6px solid #222;
+
+}
+input[type=text] {
+ {
+
+  border-left-color: transparent;
+  border-top-color: transparent;
+  border-top-color: transparent;
+  border-right-color: transparent;
+  border-top-color: transparent;
+  border-bottom-color: transparent;
+}
+body{
+  background-image: url("http://www.pptbackgrounds.org/uploads/tic-tac-toe-backgrounds-wallpapers.jpg");
+}
